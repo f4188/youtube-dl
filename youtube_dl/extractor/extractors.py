@@ -812,6 +812,7 @@ from .nrl import NRLTVIE
 from .ntvcojp import NTVCoJpCUIE
 from .ntvde import NTVDeIE
 from .ntvru import NTVRuIE
+from .nudogram import NudogramIE
 from .nytimes import (
     NYTimesIE,
     NYTimesArticleIE,
