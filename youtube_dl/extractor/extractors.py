@@ -139,6 +139,7 @@ from .brightcove import (
     BrightcoveLegacyIE,
     BrightcoveNewIE,
 )
+from .btkuluvalley import BTKuluValleyIE
 from .businessinsider import BusinessInsiderIE
 from .buzzfeed import BuzzFeedIE
 from .byutv import BYUtvIE
